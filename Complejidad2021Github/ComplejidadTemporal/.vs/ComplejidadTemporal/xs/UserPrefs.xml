@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E2BABE2D-611D-46C9-B11D-9138619ABBE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComplejidadTemporal/ArbolGeneral.cs">
+    <Files>
+      <File FileName="ComplejidadTemporal/Cola.cs" Line="42" Column="10" />
+      <File FileName="ComplejidadTemporal/ArbolGeneral.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComplejidadTemporal" expanded="True">
+            <Node name="ComplejidadTemporal" expanded="True">
+              <Node name="ArbolGeneral.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ComplejidadTemporal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

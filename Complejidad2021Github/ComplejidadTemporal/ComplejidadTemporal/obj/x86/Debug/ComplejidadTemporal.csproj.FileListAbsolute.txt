@@ -1,0 +1,6 @@
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/bin/Debug/ComplejidadTemporal.exe
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/bin/Debug/ComplejidadTemporal.pdb
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/obj/x86/Debug/ComplejidadTemporal.csprojAssemblyReference.cache
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/obj/x86/Debug/ComplejidadTemporal.csproj.CoreCompileInputs.cache
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/obj/x86/Debug/ComplejidadTemporal.exe
+/home/reinaldoandres/Escritorio/ProyectoGit/Complejidad2021Github/ComplejidadTemporal/ComplejidadTemporal/obj/x86/Debug/ComplejidadTemporal.pdb

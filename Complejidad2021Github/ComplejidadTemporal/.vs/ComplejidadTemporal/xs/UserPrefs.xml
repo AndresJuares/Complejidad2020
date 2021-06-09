@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{E2BABE2D-611D-46C9-B11D-9138619ABBE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ComplejidadTemporal/ArbolGeneral.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComplejidadTemporal/Program.cs">
     <Files>
-      <File FileName="ComplejidadTemporal/Cola.cs" Line="42" Column="10" />
-      <File FileName="ComplejidadTemporal/ArbolGeneral.cs" Line="23" Column="1" />
+      <File FileName="ComplejidadTemporal/ArbolBinario.cs" Line="67" Column="22" />
+      <File FileName="ComplejidadTemporal/Program.cs" Line="12" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ComplejidadTemporal" expanded="True">
             <Node name="ComplejidadTemporal" expanded="True">
-              <Node name="ArbolGeneral.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
